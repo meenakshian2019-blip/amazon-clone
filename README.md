@@ -2,6 +2,10 @@
 
 A fully functional Full-Stack Amazon Clone built using **React**, **Firebase**, and **Stripe API**. This application includes user authentication, a working shopping cart with real-time calculations, dynamic order history tracking via a Firestore database, and a fully secure checkout flow.
 
+## Live Deployment Link
+
+The live deployment link for this project is: https://challenge-ac109.web.app
+
 ## Features
 
 - **Full User Authentication:** Secure Sign-in, Account Creation, and Sign-out capabilities powered by Firebase Auth.
